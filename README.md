@@ -5,6 +5,12 @@
 
 In this video we'll be recreating the MacOS dock animation you see when hovering an app icon on desktop. We do this by combining both the new CSS has() selector and CSS variables in a smart way. This results in us being able to quite closely replicate the dock animation, without the use of any animation libraries like Framer Motion or GASP.
 
+## Links
+
+* [Live demo](https://macos-dock-animation-with-css.vercel.app/) of what we've build (desktop only)
+* [Watch Video on YouTube](https://youtu.be/_ZcIFTvLm64)
+* [MDN Docs about CSS has selector](https://developer.mozilla.org/en-US/docs/Web/CSS/:has)
+
 ## Source code
 
 * HTML and JavaScript part can be found in [/src/app.tsx](/src/App.tsx)
