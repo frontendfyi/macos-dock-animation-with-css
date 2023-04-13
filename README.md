@@ -8,7 +8,7 @@ In this video we'll be recreating the MacOS dock animation you see when hovering
 ## Source code
 
 * HTML and JavaScript part can be found in [/src/app.tsx](/src/App.tsx)
-* The styling part can be used in [/src/index.css](/src/index.css);
+* The styling part can be used in [/src/index.css](/src/index.css)
 
 ## Tools used
 
