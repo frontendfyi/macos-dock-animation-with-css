@@ -1,0 +1,1 @@
+All icons are copyrighted by https://macosicons.com and are only used for educational purposes.
