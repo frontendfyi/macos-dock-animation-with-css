@@ -104,13 +104,31 @@ function App() {
             </a>
           </li>
           <li className="app" onMouseMove={handleAppHover}>
-            <a href="https://www.youtube.com" target="_blank">
+            <a href="https://youtu.be/_ZcIFTvLm64" target="_blank">
               <img src="/icons/youtube.png" />
               <span className="tooltip">Watch this tutorial on YouTube</span>
             </a>
           </li>
         </ul>
       </nav>
+
+      <div className="source-links">
+        <a
+          href="https://unsplash.com/photos/4wzRuAb-KWs"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Wallpaper by Mohammad <br />
+          Alizade on Unsplash
+        </a>
+        <a
+          href="https://macosicons.com/#/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Icons by MacOS Icons
+        </a>
+      </div>
     </div>
   );
 }
