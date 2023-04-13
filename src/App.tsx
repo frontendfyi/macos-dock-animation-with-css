@@ -129,6 +129,16 @@ function App() {
           Icons by MacOS Icons
         </a>
       </div>
+      <div className="mobile-message">
+        <p>
+          What?! MacOS works on mobile?..
+          <br />— Unfortunately it doesn't 😢 Open this site on your desktop to
+          enjoy the amazing animations! Or watch the video{" "}
+          <a href="https://youtu.be/_ZcIFTvLm64" target="_blank">
+            on YouTube
+          </a>
+        </p>
+      </div>
     </div>
   );
 }

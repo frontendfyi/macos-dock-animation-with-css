@@ -145,3 +145,39 @@ body{
 .source-links a:hover {
   opacity: 1;
 }
+
+.mobile-message {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.2;
+  justify-content: center;
+  align-items: center;
+  display: none;
+}
+
+@media only screen and (max-width: 800px) {
+  .mobile-message {
+    display: flex;
+  }
+}
+
+.mobile-message p {
+  max-width: 70vw;
+}
+
+.mobile-message a {
+  color: #fff;
+}
+
+.mobile-message::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-color: rgba(255,255,255,0.3);
+  filter: blur(80px);
+  -webkit-filter: blur(80px);
+}
