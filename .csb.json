@@ -1,0 +1,11 @@
+{
+  "openFiles": [
+    "src/App.tsx",
+    "src/main.tsx",
+    "src/index.css",
+    "src/utils/scale.ts",
+    "index.html"
+  ],
+  "otherFiles": ["package.json", "vite.config.ts"],
+  "activeFile": "src/App.tsx"
+}
