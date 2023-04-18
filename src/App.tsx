@@ -29,14 +29,6 @@ function App() {
       "--dock-offset-right",
       `${offsetPixels}px`
     );
-
-    console.table({
-      mousePosition,
-      iconPositionLeft,
-      iconWidth,
-      cursorDistance,
-      offsetPixels,
-    });
   };
 
   return (
@@ -51,61 +43,61 @@ function App() {
           </li>
           <li className="app" onMouseMove={handleAppHover}>
             <a href="https://www.frontend.fyi" target="_blank">
-              <img src="/icons/1password.png" />
+              <img src="https://www.frontend.fyi/playground-assets/macos-dock/icons/1password.png" />
               <span className="tooltip">1Password</span>
             </a>
           </li>
           <li className="app" onMouseMove={handleAppHover}>
             <a href="https://www.frontend.fyi" target="_blank">
-              <img src="/icons/calendar.png" />
+              <img src="https://www.frontend.fyi/playground-assets/macos-dock/icons/calendar.png" />
               <span className="tooltip">Calendar</span>
             </a>
           </li>
           <li className="app" onMouseMove={handleAppHover}>
             <a href="https://www.frontend.fyi" target="_blank">
-              <img src="/icons/email.png" />
+              <img src="https://www.frontend.fyi/playground-assets/macos-dock/icons/email.png" />
               <span className="tooltip">Mail (who uses this app?!)</span>
             </a>
           </li>
           <li className="app" onMouseMove={handleAppHover}>
             <a href="https://www.frontend.fyi" target="_blank">
-              <img src="/icons/signal.png" />
+              <img src="https://www.frontend.fyi/playground-assets/macos-dock/icons/signal.png" />
               <span className="tooltip">Signal</span>
             </a>
           </li>
           <li className="app" onMouseMove={handleAppHover}>
             <a href="https://www.frontend.fyi" target="_blank">
-              <img src="/icons/slack.png" />
+              <img src="https://www.frontend.fyi/playground-assets/macos-dock/icons/slack.png" />
               <span className="tooltip">Slack</span>
             </a>
           </li>
           <li className="app" onMouseMove={handleAppHover}>
             <a href="https://www.frontend.fyi" target="_blank">
-              <img src="/icons/spotify.png" />
+              <img src="https://www.frontend.fyi/playground-assets/macos-dock/icons/spotify.png" />
               <span className="tooltip">Spotify</span>
             </a>
           </li>
           <li className="app" onMouseMove={handleAppHover}>
             <a href="https://www.frontend.fyi" target="_blank">
-              <img src="/icons/vscode.png" />
+              <img src="https://www.frontend.fyi/playground-assets/macos-dock/icons/vscode.png" />
               <span className="tooltip">VsCode</span>
             </a>
           </li>
           <li className="app" onMouseMove={handleAppHover}>
             <a href="https://www.frontend.fyi" target="_blank">
-              <img src="/icons/warp.png" />
+              <img src="https://www.frontend.fyi/playground-assets/macos-dock/icons/warp.png" />
               <span className="tooltip">Warp</span>
             </a>
           </li>
           <li className="app" onMouseMove={handleAppHover}>
             <a href="https://www.frontend.fyi" target="_blank">
-              <img src="/icons/frontendfyi.png" />
+              <img src="https://www.frontend.fyi/playground-assets/macos-dock/icons/frontendfyi.png" />
               <span className="tooltip">Visit frontend.fyi</span>
             </a>
           </li>
           <li className="app" onMouseMove={handleAppHover}>
             <a href="https://youtu.be/_ZcIFTvLm64" target="_blank">
-              <img src="/icons/youtube.png" />
+              <img src="https://www.frontend.fyi/playground-assets/macos-dock/icons/youtube.png" />
               <span className="tooltip">Watch this tutorial on YouTube</span>
             </a>
           </li>
