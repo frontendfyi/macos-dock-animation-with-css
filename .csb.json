@@ -7,5 +7,6 @@
     "index.html"
   ],
   "otherFiles": ["package.json", "vite.config.ts"],
-  "activeFile": "src/App.tsx"
+  "activeFile": "src/App.tsx",
+  "template": "vite-react-ts"
 }

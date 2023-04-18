@@ -37,7 +37,7 @@ function App() {
         <ul>
           <li className="app" onMouseMove={handleAppHover}>
             <a href="https://www.frontend.fyi" target="_blank">
-              <img src="/icons/arc.png" />
+              <img src="https://www.frontend.fyi/playground-assets/macos-dock/icons/arc.png" />
               <span className="tooltip">Arc Browser</span>
             </a>
           </li>
