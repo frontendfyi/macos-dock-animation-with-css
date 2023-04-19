@@ -1,12 +1,5 @@
 {
-  "openFiles": [
-    "src/App.tsx",
-    "src/main.tsx",
-    "src/index.css",
-    "src/utils/scale.ts",
-    "index.html"
-  ],
-  "otherFiles": ["package.json", "vite.config.ts"],
+  "openFiles": ["src/App.tsx", "src/index.css", "src/utils/scale.ts"],
   "activeFile": "src/App.tsx",
   "template": "vite-react-ts"
 }

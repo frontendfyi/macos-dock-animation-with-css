@@ -1,3 +1,4 @@
+import "./index.css";
 import { useRef } from "react";
 import { scaleValue } from "./utils/scale";
 
