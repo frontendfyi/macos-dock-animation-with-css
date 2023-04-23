@@ -7,7 +7,7 @@ In this video we'll be recreating the MacOS dock animation you see when hovering
 
 ## Links
 
-* [Live demo](https://macos-dock-animation-with-css.vercel.app/) of what we've build (desktop only)
+* [Live demo & playground](https://www.frontend.fyi/v/macos-dock-hover-animation-with-css) of what we've build.
 * [Watch Video on YouTube](https://youtu.be/_ZcIFTvLm64)
 * [MDN Docs about CSS has selector](https://developer.mozilla.org/en-US/docs/Web/CSS/:has)
 
